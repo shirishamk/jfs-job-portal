@@ -26,8 +26,14 @@ The system ensures a smooth and interactive experience for users with an intuiti
 
 ## Screenshots
 <img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b2188b67-720a-45e9-be88-14f9b1a28dec" />
+
+
 <img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8485f7d2-a112-4e9f-a7fe-0706cac2f90c" />
+
+
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f7d66c6e-df16-4892-815a-909fa3bd5d6b" />
+
+
 <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/edac3d55-c257-4683-bb4e-8a8ee4283311" />
 
 
