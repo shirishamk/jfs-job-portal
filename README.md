@@ -19,14 +19,13 @@ The system ensures a smooth and interactive experience for users with an intuiti
 - Responsive Design — Works seamlessly across different screen sizes.
 
 ## Technologies Used
--| Category            | Technologies                     |
-| ------------------- | -------------------------------- |
-| **Frontend**        | HTML, CSS, JavaScript            |
-| **Backend**         | Java, JSP (JavaServer Pages)     |
-| **Database**        | MySQL                            |
-| **Server**          | Apache Tomcat                    |
-| **Tools & IDE**     | VS Code |
-| **Version Control** | Git, GitHub                      |
+Frontend: HTML, CSS, JavaScript
+
+Backend: Java, JSP (JavaServer Pages)
+
+Database: MySQL
+
+Server: Apache Tomcat
 
 
 ## Screenshots
