@@ -1,33 +1,43 @@
 # Job Portal Project
 
 ## Description
-A dynamic Job Portal web application built using Java, JSP, MySQL, and modern front-end technologies. The project enables users to search and apply for job listings, and provides administrators with tools to manage jobs and users efficiently.
+The Job Portal is a dynamic web-based application developed using Java, JSP, MySQL, HTML, CSS, and JavaScript.
+It provides a platform for job seekers to explore available job listings and for administrators to manage job postings efficiently.
+The system ensures a smooth and interactive experience for users with an intuitive and responsive interface.
 
 ## Features
-- User authentication and role-based access (admin, user)
-- Post and manage job listings with CRUD operations
-- Job search and filtering based on various criteria
-- Interactive user interface with responsive design
-- User profile management and application tracking
+-User Authentication — Secure sign-up and login for users.
+
+-Role-Based Access — Different access levels for admin and job seekers.
+
+-Job Management — Add, view, and manage job postings with full CRUD operations.
+
+- Job Search & Filter — Find jobs by location and category.
+
+- User Dashboard — Allows users to view and apply for jobs.
+
+- Responsive Design — Works seamlessly across different screen sizes.
 
 ## Technologies Used
-- Java
-- JSP (JavaServer Pages)
-- MySQL
-- HTML
-- CSS (including flexbox and grid layouts)
-- JavaScript
+-Frontend: HTML, CSS, JavaScript
+-Backend: Java, JSP (JavaServer Pages)
+-Database: MySQL
+-Server: Apache Tomcat
 
 ## Screenshots
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b2188b67-720a-45e9-be88-14f9b1a28dec" />
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8485f7d2-a112-4e9f-a7fe-0706cac2f90c" />
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/f7d66c6e-df16-4892-815a-909fa3bd5d6b" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/edac3d55-c257-4683-bb4e-8a8ee4283311" />
+
+
 
 ## Installation and Usage
-1. Clone the repository: `git clone https://github.com/jainamthakkar/Job-Portal.git`
+1. Clone the repository: git clone https://github.com/shirishamk/jfs-job-portal.git
 2. Set up the MySQL database using the GUI or CMD.
-3. Build and deploy the project on a Java Servlet container (e.g., Apache Tomcat)
-4. Access the application via `http://localhost:8081/job-portal`
+3. Deploy the project on Tomcat.
+4. Access the application via `http://localhost:8080/Job-Portal`
 
 ## Contributors
-- [Jainam Thakkar](https://github.com/jainamthakkar)
+- [MK Shirisha][(https://github.com/shirishamk/jfs-job-portal.git)]
+
