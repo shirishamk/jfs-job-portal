@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+  <!-- JNDI DataSource for job_portal (development) -->
+  <Resource name="jdbc/job_portal"
+            auth="Container"
+            type="javax.sql.DataSource"
+            factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+            driverClassName="com.mysql.cj.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/job_portal?useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC"
+            username="job_user"
+            password="job_password"
+            maxActive="20"
+            maxIdle="10"
+            maxWait="10000"/>
+</Context>
