@@ -18,6 +18,8 @@ The system ensures a smooth and interactive experience for users with an intuiti
 
 - Responsive Design — Works seamlessly across different screen sizes.
 
+## Technologies
+
 | Category | Technologies |
 |-----------|---------------|
 | *Frontend* | HTML5, CSS3, JavaScript |
