@@ -42,7 +42,7 @@ The system ensures a smooth and interactive experience for users with an intuiti
 1. Clone the repository: git clone https://github.com/shirishamk/jfs-job-portal.git
 2. Set up the MySQL database using the GUI or CMD.
 3. Deploy the project on Tomcat.
-4. Access the application via `http://localhost:8080/Job-Portal`
+4. Access the application via `http://localhost:8080/Job-Portal-0.0.1-SNAPSHOT/`
 
 ## Contributors
 - [MK Shirisha][(https://github.com/shirishamk/jfs-job-portal.git)]
